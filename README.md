@@ -39,7 +39,7 @@ I'm Chidera Mosanya, a Lead/Senior Software Engineer with over a decade of exper
     <td valign="top" width="50%">
 
 ## 🌱 Personal Growth
-- Balancing fast-paced tech with slow living principles and traditional crafts like mead making
+- Balancing fast-paced tech with slow living principles and traditional crafts like gardening and mead making
 
 ## 👯 Collaboration Interests
 - Large-scale distributed systems with ML inference or microservice architecture
