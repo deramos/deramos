@@ -50,8 +50,8 @@ I'm Chidera Mosanya, a Lead/Senior Software Engineer with over a decade of exper
 - 😄 Pronouns: He/Him
 
 ## 🛠 Tech Stack
-- Python | Java (SpringBoot)
-- TensorFlow | PyTorch | Apache Spark
+- Python | Java (SpringBoot) | React Native
+- PyTorch | Scikit Learn | Apache Spark
 - Kubernetes
 - AWS | GCP
 
