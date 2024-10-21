@@ -8,7 +8,7 @@ Lead/Staff Software Engineer with over a decade of experience in cutting-edge so
 
   </td>
   <td valign="top" width="40%">
-    <img src="https://your-animation-url.gif" width="100%" alt="Tech Animation">
+    <img src="me.gif" width="100%" alt="Tech Animation">
   </td>
 </tr>
 </table>
