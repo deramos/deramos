@@ -2,9 +2,9 @@
   <tr>
     <td valign="top" width="60%">
 
-# Hi there 👋 I'm Chidera Mosanya
+# Hi there 👋 
 
-Lead/Staff Software Engineer with over a decade of experience in cutting-edge software engineering. I specialize in machine learning systems, MLOps, microservice architecture, and data engineering pipelines. I thrive on building low-latency systems that serve millions of requests per second, provide real-time ML inference, and process petabytes of data.
+I'm Chidera Mosanya, a Lead/Staff Software Engineer with over a decade of experience in cutting-edge software engineering. I specialize in machine learning systems, MLOps, microservice architecture, and data engineering pipelines. I thrive on building low-latency systems that serve millions of requests per second, provide real-time ML inference, and process petabytes of data.
 
   </td>
   <td valign="top" width="40%">
