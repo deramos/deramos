@@ -33,7 +33,7 @@ I'm Chidera Mosanya, a Lead/Senior Software Engineer with over a decade of exper
 - PocketGarden.ai: Smart, AI-assisted gardening app
 
 ## ⚡ Fun Facts
-- Huge fan of The Big Bang Theory, Rick and Morty, and Suits
+- Huge fan of The Big Bang Theory, The MCU, Rick and Morty, and Suits
 - Amateur mead maker in my spare time
     </td>
     <td valign="top" width="50%">
