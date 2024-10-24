@@ -20,7 +20,7 @@ I'm Chidera Mosanya, a Lead/Senior Software Engineer with over a decade of exper
 ## 🚀 Professional Background
 - Machine learning systems and MLOps
 - Microservice architecture
-- Distributed systems
+- Workflow orchestration
 - Data engineering pipelines
 
 ## 🎓 Education
