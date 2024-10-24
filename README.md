@@ -51,7 +51,7 @@ I'm Chidera Mosanya, a Lead/Senior Software Engineer with over a decade of exper
 
 ## 🛠 Tech Stack
 - Python | Java (SpringBoot) | React Native
-- PyTorch | Scikit Learn | Apache Spark
+- PyTorch | Scikit Learn | Apache Spark | Apache Airflow
 - Kubernetes
 - AWS | GCP
 
