@@ -25,8 +25,9 @@ I'm Chidera Mosanya, a Lead/Senior Software Engineer with over a decade of exper
 
 ## 🎓 Education
 - MSc Computer Science (Nottingham, UK)
-- Engineering Leadership (Cornell)
-- Engineering Management (Toronto)
+- Engineering Management (Toronto) -- In View
+- Engineering Leadership (Cornell) -- In View
+- 
 
 ## 🔭 Current Projects
 - PoliticsGPT: AI-powered political analysis tool
