@@ -21,12 +21,10 @@ Hi, I'm Chidera Mosanya. I build scalable software systems and enjoy working wit
 - Machine learning systems and MLOps
 - Microservice architecture
 - Workflow orchestration
-- Data engineering pipelines
 
 ## 🎓 Education
 - MSc Computer Science (Nottingham, UK)
 - Engineering Management (Toronto) -- In View
-- Engineering Leadership (Cornell) -- In View
 
 ## 🔭 Current Projects
 - PoliticsGPT: AI-powered political analysis tool
@@ -45,7 +43,7 @@ Hi, I'm Chidera Mosanya. I build scalable software systems and enjoy working wit
 - Large-scale distributed systems with ML inference or microservice architecture
 
 ## 💬 Let's Connect
-- 💻 Ask me about: Scalable ML systems, engineering leadership, mead making
+- 💻 Ask me about: Scalable ML systems, and mead making
 - 📧 Contact: chidera[dot]mosanya[at]gmail.com
 - 😄 Pronouns: He/Him
 
