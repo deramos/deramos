@@ -4,7 +4,7 @@
 
 # Hi there 👋 
 
-I'm Chidera Mosanya, a Lead/Senior Software Engineer with over a decade of experience in cutting-edge software engineering. I specialize in machine learning systems, MLOps, microservice architecture, and workflow orchestration. I thrive on building low-latency systems that serve millions of requests per second, provide real-time ML inference, and process petabytes of data. I also love developing beautiful UIs in React Native
+Hi, I'm Chidera Mosanya. I build scalable software systems and enjoy working with machine learning, particularly when it comes to deploying ML models in production. I've spent the last decade working on everything from high-throughput microservices to data pipelines, with a soft spot for crafting mobile apps in React Native.
 
   </td>
   <td valign="top" width="40%">
