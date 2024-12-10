@@ -31,7 +31,7 @@ Hi, I'm Chidera Mosanya. I build scalable software systems and enjoy working wit
 - PocketGarden.ai: Smart, AI-assisted gardening app
 
 ## ⚡ Fun Facts
-- Huge fan of The Big Bang Theory, The MCU, Rick and Morty, and Suits
+- Huge fan of The Big Bang Theory, The MCU, Rick and Morty, and Detective Jake Peralta
 - Amateur mead maker in my spare time
     </td>
     <td valign="top" width="50%">
@@ -45,7 +45,6 @@ Hi, I'm Chidera Mosanya. I build scalable software systems and enjoy working wit
 ## 💬 Let's Connect
 - 💻 Ask me about: Scalable ML systems, and mead making
 - 📧 Contact: chidera[dot]mosanya[at]gmail.com
-- 😄 Pronouns: He/Him
 
 ## 🛠 Tech Stack
 - Python | FastAPI | Golang | React Native
