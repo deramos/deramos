@@ -47,7 +47,7 @@ Hi, I'm Chidera Mosanya. I build scalable software systems and enjoy working wit
 - 📧 Contact: chidera[dot]mosanya[at]gmail.com
 
 ## 🛠 Tech Stack
-- Python | FastAPI | Golang | React Native
+- Python | FastAPI | SpringBoot | React Native
 - PyTorch | Scikit Learn | Apache Spark | Apache Airflow
 - Kubernetes
 - AWS | GCP
