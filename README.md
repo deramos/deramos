@@ -19,7 +19,7 @@ Hi, I'm Chidera Mosanya. I build scalable software systems and enjoy deploying M
 
 ## 🚀 Professional Background
 - Machine Learning systems and MLOps
-- Microservice architecture
+- Low Latency API
 - Workflow orchestration
 
 ## 🎓 Education
