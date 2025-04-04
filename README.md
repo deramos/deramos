@@ -18,7 +18,7 @@ Hi, I'm Chidera Mosanya. I build scalable software systems and enjoy deploying M
     <td valign="top" width="50%">
 
 ## 🚀 Professional Background
-- Machine Learning systems and MLOps
+- Machine Learning Platform and MLOps
 - Low Latency APIs
 - Workflow orchestration
 
