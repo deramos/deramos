@@ -4,7 +4,7 @@
 
 # Hi there 👋 
 
-I'm Chidera Mosanya. I build scalable software systems and enjoy deploying ML models in production. I've spent the last decade working on everything from high-throughput java applications, to data pipelines and MLOps in python, with a soft spot for crafting mobile apps in React Native.
+I'm Chidera Mosanya. I build scalable software systems and enjoy deploying ML models in production. I've spent the last decade working on everything from java applications, to training and testing ML models, data pipelines, and MLOps in python. I also have a soft spot for crafting mobile apps in React Native.
 
   </td>
   <td valign="top" width="40%">
