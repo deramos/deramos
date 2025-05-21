@@ -18,8 +18,8 @@ I'm Chidera Mosanya. I build scalable software systems and integrate ML/AI infer
     <td valign="top" width="50%">
 
 ## 🚀 Professional Background
-- Machine Learning Platform and MLOps
 - Low Latency APIs
+- Microservices (with AI/ML Inference)
 - Workflow orchestration
 
 ## 🎓 Education
