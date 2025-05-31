@@ -40,7 +40,7 @@ I'm Chidera Mosanya. I build scalable software systems and integrate ML/AI infer
 - Balancing fast-paced tech with slow living principles and traditional crafts such as gardening and mead making
 
 ## 👯 Collaboration Interests
-- Large-scale distributed systems with ML inference or microservice architecture
+- Large-scale microservice with ML inference on Kubernetes
 
 ## 💬 Let's Connect
 - 💻 Ask me about: Scalable ML systems, and mead making
