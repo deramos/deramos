@@ -47,7 +47,7 @@ I'm Chidera Mosanya. I build scalable software systems and integrate ML/AI infer
 - 📧 Contact: chidera[dot]mosanya[at]gmail.com
 
 ## 🛠 Tech Stack
-- Python | FastAPI | Java | React Native
+- Python | Java (SpringBoot) | FastAPI | React / React Native
 - PyTorch | Scikit Learn | Apache Spark | Apache Airflow
 - Kubernetes
 - AWS
