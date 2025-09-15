@@ -1,59 +1,34 @@
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="60%">
+# Hi there 👋  
 
-# Hi there 👋 
+I'm **Chidera Mosanya** — Engineer building AI agents and AI-driven media experiences.<br/>
+I specialize in scalable software systems, microservices with ML inference, and AI agents.  
 
-I'm Chidera Mosanya. I build scalable software systems and integrate ML/AI inference into production environments. I've spent the last decade working on everything from Java applications, to training and testing ML models, data pipelines, and MLOps in python. I also have a soft spot for crafting UI and mobile apps in React and React Native.
+---
 
-  </td>
-  <td valign="top" width="40%">
-    <img src="me.gif" width="100%" alt="Tech Animation">
-  </td>
-</tr>
-</table>
-
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="50%">
-
-## 🚀 Professional Background
-- Low Latency APIs
-- Microservices (with AI/ML Inference)
-- Workflow orchestration
+## 🚀 Background
+- Low-latency APIs
+- AI agents  
+- Microservices + ML inference  
+- Workflow orchestration on Kubernetes  
 
 ## 🎓 Education
-- MSc Computer Science (Nottingham, UK)
-- Engineering Management (Toronto) -- In View
+- MSc Computer Science (Nottingham, UK)  
+- Engineering Management (Toronto, in view)  
 
 ## 🔭 Current Projects
-- PoliticsGPT: AI-powered political analysis tool
-- PocketGarden.ai: Smart, AI-assisted gardening app
+- **Lorecraft.studio**: Powering AI-generated animations and game assets
+- **PoliticsGPT**: AI-enabled political analysis tool
+ 
+## 🌱 Beyond Tech
+- Slow living + traditional crafts (wine making)  
+- Big fan of *MCU, Rick & Morty, Big Bang Theory*  
 
-## ⚡ Fun Facts
-- Huge fan of The Big Bang Theory, The MCU, Rick and Morty, and Detective Jake Peralta
-- Amateur mead maker in my spare time
-    </td>
-    <td valign="top" width="50%">
-
-## 🌱 Personal Growth
-- Balancing fast-paced tech with slow living principles and traditional crafts such as gardening and mead making
-
-## 👯 Collaboration Interests
-- Large-scale microservice with ML inference built on Kubernetes
-
-## 💬 Let's Connect
-- 💻 Ask me about: Scalable ML systems, and mead making
-- 📧 Contact: chidera[dot]mosanya[at]gmail.com
+---
 
 ## 🛠 Tech Stack
-- Python | Java (SpringBoot) | FastAPI | React / React Native
-- PyTorch | Scikit Learn | Apache Spark | Apache Airflow
-- Kubernetes
-- AWS
+- **Languages**: Python | Java (SpringBoot) | React / React Native  
+- **ML/AI**: PyTorch | Scikit-learn | Spark | Airflow  
+- **Infra**: Kubernetes | AWS  
 
-  </td>
-</tr>
-</table>
-
+📧 **chidera[dot]mosanya[at]gmail.com**  
 [LinkedIn](https://www.linkedin.com/in/chideramosanya) | [Twitter](https://twitter.com/ChideraMosanya)
