@@ -5,9 +5,9 @@ I specialize in scalable software systems, microservices with ML inference, and 
 
 ---
 
-<table width="100%">
+<table style="width:100%;">
 <tr>
-<td width="50%" valign="top">
+<td style="width:50%; vertical-align:top; padding-right:15px;">
 
 ## 🚀 Background
 - AI agents 
@@ -20,10 +20,10 @@ I specialize in scalable software systems, microservices with ML inference, and 
 - Engineering Management (Toronto, in view)  
 
 </td>
-<td width="50%" valign="top">
+<td style="width:50%; vertical-align:top; padding-right:15px;">
 
 ## 🔭 Current Projects
-- **Lorecraft.studio**: AI-generated animations & game assets  
+- **Lorecraft.studio**: AI-generated animations and game assets  
 - **PoliticsGPT**: AI-enabled political analysis tool
 
 ## 🌱 Beyond Tech
