@@ -26,10 +26,6 @@ I specialize in scalable software systems, microservices with ML inference, and 
 - **Lorecraft.studio**: AI-generated animations & game assets  
 - **PoliticsGPT**: AI-enabled political analysis tool  
 
-## 🌱 Beyond Tech
-- Slow living + traditional crafts (wine making)  
-- Big fan of *MCU, Rick & Morty, Big Bang Theory*  
-
 ## 💬 Connect
 📧 **chidera[dot]mosanya[at]gmail.com**  
 [LinkedIn](https://www.linkedin.com/in/chideramosanya) | [Twitter](https://twitter.com/ChideraMosanya)
