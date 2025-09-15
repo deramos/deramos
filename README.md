@@ -10,8 +10,8 @@ I specialize in scalable software systems, microservices with ML inference, and 
 <td width="50%" valign="top">
 
 ## 🚀 Background
-- Low-latency APIs  
-- AI agents  
+- AI agents 
+- Low-latency APIs   
 - Microservices + ML inference  
 - Workflow orchestration on Kubernetes  
 
