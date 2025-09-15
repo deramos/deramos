@@ -19,11 +19,6 @@ I specialize in scalable software systems, microservices with ML inference, and 
 - MSc Computer Science (Nottingham, UK)  
 - Engineering Management (Toronto, in view)  
 
-## 🛠 Tech Stack
-- **Languages**: Python | Java (SpringBoot) | React / React Native  
-- **ML/AI**: PyTorch | Scikit-learn | Spark | Airflow  
-- **Infra**: Kubernetes | AWS  
-
 </td>
 <td width="50%" valign="top">
 
@@ -42,3 +37,10 @@ I specialize in scalable software systems, microservices with ML inference, and 
 </td>
 </tr>
 </table>
+
+---
+
+## 🛠 Tech Stack
+- **Languages**: Python | Typescript | React / React Native  
+- **ML/AI**: PyTorch | Scikit-learn | Spark | Airflow  
+- **Infra**: Kubernetes | AWS  
