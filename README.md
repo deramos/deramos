@@ -5,7 +5,7 @@ I specialize in scalable software systems, microservices with ML inference, and 
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
