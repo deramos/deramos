@@ -27,8 +27,8 @@ I specialize in scalable software systems, microservices with ML inference, and 
 - **PoliticsGPT**: AI-enabled political analysis tool
 
 ## 🌱 Beyond Tech
-- Slow living + traditional crafts (wine making)  
-- Big fan of *MCU, Rick & Morty, Big Bang Theory*  
+- Slow living + traditional crafts (such as wine making)  
+- Trying to beat my own high scores on GoKart 🏎️  
 
 
 ## 💬 Connect
