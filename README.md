@@ -44,4 +44,4 @@ I specialize in scalable software systems, microservices with ML inference, and 
 ## 🛠 Tech Stack
 - **Languages**: Python | Typescript | React / React Native  
 - **ML/AI**: PyTorch | Scikit-learn | Spark | Airflow  
-- **Infra**: Kubernetes | AWS  
+- **Infra**: Kubernetes | AWS | GCP
