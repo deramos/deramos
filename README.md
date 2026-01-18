@@ -1,7 +1,6 @@
 # Hi there 👋  
 
-I'm **Chidera Mosanya** — Engineer building AI agents and AI-driven media experiences.<br/>
-I specialize in scalable software systems, microservices with ML inference, and AI agents.  
+I'm **Chidera Mosanya** — Engineer building AI agents and AI-driven media experiences. I specialize in scalable software systems, microservices with ML inference, and AI agents.  
 
 ---
 
