@@ -27,8 +27,9 @@ I specialize in scalable software systems, microservices with ML inference, and 
 - **PoliticsGPT**: AI-enabled political analysis tool
 
 ## 🌱 Beyond Tech
-- Slow living + traditional crafts (such as wine making)  
-- Trying to beat my own high scores on GoKart 🏎️  
+- Slow living + traditional crafts (such as wine making, gardening)  
+- GoKart 🏎️
+- Traveling 🏝️⛴️ 
 
 
 ## 💬 Connect
