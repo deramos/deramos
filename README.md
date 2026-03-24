@@ -22,7 +22,7 @@ I'm **Chidera Mosanya** — Engineer building AI agents and AI-driven media expe
 <td style="width:50%; vertical-align:top; padding-right:15px;">
 
 ## 🔭 Current Projects
-- [**Lorecraft.studio**](https://lorecraft.studio): AI-generated animations and game assets  
+- [**Lorecraft.studio**](https://lorecraft.studio): AI-generated animations and game assets using stable diffusion  
 - **PoliticsGPT**: AI-enabled political analysis tool
 
 ## 🌱 Beyond Tech
